@@ -1,3 +1,3 @@
 # Numerical-Methods
 
-Implementation of various numerical methods for root finding, integrating, solving linear algebra equations, and similar. Each subfolder contains various methods solving the same kind of problem.
+Implementations of various numerical methods for root finding, integrating, finding extrema, solving systems of linear equations, and interpolating in C. Each subfolder contains various methods solving the same kind of problem.
